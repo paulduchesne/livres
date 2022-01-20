@@ -1,11 +1,12 @@
 # Livres
 - identify primary source book data.
 - conform to Wikidata entities and the Wikidata "Book data model" (https://www.wikidata.org/wiki/Wikidata:WikiProject_Books/Book_data_model).
-- submit to Wikidata via OpenRefine.
+- submit work and edition data to Wikidata via OpenRefine.
+- declare exemplar level data as self-hosted RDF.
 
 ## Primary source data
 
-This project is an experiment in deriving claims for [work](https://www.wikidata.org/wiki/Q47461344) and [edition](https://www.wikidata.org/wiki/Q3331189) entities based on physical examination of an [individual copy of a book](https://www.wikidata.org/wiki/Q53731850), in this example [Drive Your Plow Over the Bones of the Dead](https://www.wikidata.org/wiki/Q11827997). 
+This project is an experiment in deriving claims for [work](https://www.wikidata.org/wiki/Q47461344), [edition](https://www.wikidata.org/wiki/Q3331189) and [exemplar](https://www.wikidata.org/wiki/Q53731850) entities based on physical examination of an [individual copy of a book](https://www.wikidata.org/wiki/Q53731850), in this example [Drive Your Plow Over the Bones of the Dead](https://www.wikidata.org/wiki/Q11827997). Work and edition data can be pushed to Wikidata as sufficently notable, while data related to the physical object can be shared as personal linked open data.
 
 Collected claims are:
 
